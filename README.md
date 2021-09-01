@@ -29,7 +29,7 @@ I'm also interested in PWA's, which I think will eventually replace native mobil
 
 Any project !
 
-- 📫 How to reach me ...
+## 📫 How to reach me ...
 
 Send me a mail !
 
