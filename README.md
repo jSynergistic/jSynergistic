@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @jSynergistic !
 
-I've been working in web development for about 15 years, at first in a small web agency as a web developer ; then I quickly became technical director of the agency, which gave me huge opportunities to learn fullstack web development, using PHP, CSS, HTML, and a bit of JavaScript (essentially using jQuery at this time where Internet Explorer 6 was condemning us to so many sacrifices �😆).
+I've been working in web development for about 15 years, at first in a small web agency as a web developer ; then I quickly became technical director of the agency, which gave me huge opportunities to learn fullstack web development, using PHP, CSS, HTML, and a bit of JavaScript (essentially using jQuery at this time where Internet Explorer 6 was condemning us to so many sacrifices 😆).
 
 I worked for years mainly using PHP for the backend (during which I created an MVC framework whit an automatic CRUD) and JavaScript (ES4), HTML (v4), and CSS (v2.1) for the frontend. 
 
