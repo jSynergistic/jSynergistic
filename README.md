@@ -20,16 +20,16 @@ There were also these so ridiculous "Best viewed on `Best viewed on X browser ve
 
 On the development side... 
 
-- No "hot reload", 
-- No pre/post processors neither
+- No "hot reload", forcing developers to manually refresh the page or reloading the server side application
+- No pre/post processors like PostCSS neither, forcing developers to manually insert vendor-specific prefixes for modern features
 
-We were forced too refresh manually the browser on each code modification, which was tedious, annoying.
+Developing user interfaces, we were forced too refresh manually the browser on each code modification, which was tedious, boring, and represented a huge loss of time.
 
-When I manage interns today, I can't tell them how lucky they are to have such powerful tools available:
+When I manage interns, I can't tell them how lucky they are to dispose of such powerful tools that appeared during the last years.
 
-- VS Code and its extensions, for linting and code formatting among many other features
-- Webpack / Rollup to build optimized bundles (increasing load speed)
-- NPM / Yarn / PNPM, aloowing access to millions of packages (following the DRTW principle) 
+- VS Code and its extensions (there are at least one for each particular need) ; linting and code formatting alsa represent a huge improvement in team work.
+- Webpack / Rollup to build optimized bundles, for performance concerns (increasing load speed)
+- NPM / Yarn / PNPM, allowing access to millions of packages (following the DRTW principle) 
 - Important progress made with ES5, and ES6 and laters. 
 - Also, to note, the recent adoption of Microsoft's browser rendering engine to the Chromium's one, and the notable acceleration of updates on theses browsers, allowing us to use the most recent features of EcmaScript, and CSS without waiting for years.
 
